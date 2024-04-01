@@ -1,0 +1,16 @@
+{
+  "name": "easy-dropdown-menu",
+  "version": "1.0.0",
+  "description": "a npm module for simple dropdown-menue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dropdown",
+    "javascript",
+    "module"
+  ],
+  "author": "fmpberger",
+  "license": "ISC"
+}
